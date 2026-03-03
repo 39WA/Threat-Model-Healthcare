@@ -1,6 +1,6 @@
 # Healthcare System Threat Model
 
-## Overview1
+## Overview
 
 This repository contains a comprehensive **threat model of a healthcare application**, developed using industry-standard threat modeling methodologies. The project identifies key system components, trust boundaries, potential threats, and recommended security mitigations to reduce organizational risk.
 
