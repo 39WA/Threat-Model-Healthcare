@@ -42,7 +42,7 @@ threat-model-healthcare/
 
 The high-level system architecture is documented here:
 
-[View Architecture Diagram](./diagrams/architecture.md)
+[View Architecture Diagram](/diagrams/architecture.md)
 
 This diagram illustrates:
 
